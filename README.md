@@ -1,2 +1,2 @@
-# Python-Games-created
+# Python-Game
 A zombie survival game created using python
